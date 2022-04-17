@@ -31,3 +31,5 @@ const VistaController = {
     filterVistaByTag,
     filterVistaByCreator
 }
+
+module.exports = VistaController;
